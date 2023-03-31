@@ -13,7 +13,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white")
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)
+![Go](https://img.shields.io/badge/--00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
 
 ### Front-End Development
 
