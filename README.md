@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-🎓 I am Daniel Martínez, a FullStack Web Developer especialized in Front end technologies. 
+🎓 FullStack Web Developer especialized in Front end technologies. 
 Based in NL
 
 ### Latest projects
